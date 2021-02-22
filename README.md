@@ -1,17 +1,16 @@
 # Spotify-clone-using-React
 
-## Created a Spotify clone using React, context API and CSS.
+### Created a Spotify clone using React, context API and CSS.
 
 ### Requirements
-
-### Create a React projects using the command:
-### npx
-### npx create-react-app my-app
+##### Create a React projects using the command:
+##### npx
+##### npx create-react-app my-app
   
 
-## Deployment of the project
-### Create an account on Google firebase and deployed the clone there.
-### Need to register as a Spotify Developer for connecting with the Spotify's API.
+### Deployment of the project
+##### Create an account on Google firebase and deployed the clone there.
+##### Need to register as a Spotify Developer for connecting with the Spotify's API.
 
 ## Steps for execution of the project
 ### Open http://localhost:3000 to view it in the browser.
